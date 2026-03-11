@@ -9,4 +9,4 @@ class Porygon(Normal):
             Move("Black Hole Eclpise", "DARK", 175),
             Move("Recover", "NORMAL", 0)
         ]
-        super().__init__("Porygon", 334, moves, "./TVPoke/Pokemon/imgs/porygon.png")
+        super().__init__("Porygon", 334, moves, "./TVPoke/Pokemon/imgs/Porygon.png")
